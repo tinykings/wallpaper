@@ -48,6 +48,8 @@
 
 <a href="a_woman_with_long_hair_wearing_sunglasses.png"><img alt="a_woman_with_long_hair_wearing_sunglasses.png" src="a_woman_with_long_hair_wearing_sunglasses.png"></a>
 
+<a href="peace-paint.png"><img alt="peace-paint.png" src="peace-paint.png"></a>
+
 <a href="wallhaven-211gzg.png"><img alt="wallhaven-211gzg.png" src="wallhaven-211gzg.png"></a>
 
 <a href="2paggfqi38aa1.webp"><img alt="2paggfqi38aa1.webp" src="2paggfqi38aa1.webp"></a>
